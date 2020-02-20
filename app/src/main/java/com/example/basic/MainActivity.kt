@@ -152,6 +152,12 @@ class MainActivity : BaseActivity(){//AppCompatActivity() {
             startActivity(intent)
 
         }
+
+        var btnRec = findViewById<Button>(R.id.btnRec)
+        btnRec.setOnClickListener{
+            var intent = Intent(this, RecDemoActivity::class.java)
+            startActivity(intent)
+        }
     }
 
     fun getString1():String

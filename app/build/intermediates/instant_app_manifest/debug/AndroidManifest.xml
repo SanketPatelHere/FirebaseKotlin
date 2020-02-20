@@ -22,6 +22,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.basic.RecDemoActivity" />
         <activity android:name="com.example.basic.ClassScreenActivity" />
         <activity
             android:name="com.example.basic.MainActivity"

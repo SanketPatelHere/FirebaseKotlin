@@ -1053,6 +1053,7 @@ id beginning
 id blocking
 id bottom
 id btnClass
+id btnRec
 id btnSubmit
 id buttonPanel
 id center
@@ -1144,6 +1145,7 @@ id right
 id right_icon
 id right_side
 id rootLayout
+id rv_animal_list
 id save_image_matrix
 id save_non_transition_alpha
 id save_scale_type
@@ -1211,7 +1213,9 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
+id tvLeg
 id tvMessage
+id tv_animal_type
 id uniform
 id unlabeled
 id up
@@ -1270,6 +1274,8 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_class_screen
 layout activity_main
+layout activity_rec_demo
+layout animal_list_item
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar
